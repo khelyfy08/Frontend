@@ -32,6 +32,8 @@ body{
   justify-content: center;
   background-color: var(--color-white);
   border-radius: 10px;
+
+
 }
 
 .card .product-img{
@@ -84,6 +86,13 @@ body{
   font-weight: 700;
   color: var(--color-green);
 
+}
+
+.container .card-body h1 span{
+  color: var(--color-grayish-blue);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
 }
 .container .card-footer{
   position: absolute;
